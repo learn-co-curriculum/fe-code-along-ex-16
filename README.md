@@ -15,3 +15,5 @@ In this code along we will be adding AJAX requests to populate real-time table d
 
 <iframe width="100%" height="720" src="//www.youtube.com/embed/4HUDCzldpzw" frameborder="0" allowfullscreen></iframe>
 <a href='https://learn.co/lessons/fe-code-along-ex-16' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<a href='https://learn.co/lessons/fe-code-along-ex-16' data-visibility='hidden'>View this lesson on Learn.co</a>
